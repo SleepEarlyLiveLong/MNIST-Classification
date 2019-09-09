@@ -10,7 +10,7 @@ MNIST Classification
               |-- Readme.md
 ```
 Among the files above:
-- in folder 'kmeans-KNN': there is a detailed introduction for how to employee a kmeans-KNN classification for MNIST handwritting recognition;
+- in folder ['kmeans-KNN'](https://github.com/chentianyangWHU/MNIST-Classification/tree/master/kmeans-KNN): there is a detailed introduction for how to employee a kmeans-KNN classification for MNIST handwritting recognition;
 - in folder 'NaiveBayes': there is a detailed introduction for how to employee a NaiveBayes classification for MNIST handwritting recognition;
 
 Now, just have a look!
