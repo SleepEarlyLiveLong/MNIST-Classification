@@ -6,6 +6,7 @@ This project includes some sub-projects where several solutions for a classifica
 MNIST Classification
               |-- kmeans-KNN
               |-- NaiveBayes
+              |-- LICENSE
               |-- Readme.md
 ```
 Among the files above:
