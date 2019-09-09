@@ -93,4 +93,4 @@ Among the files above:
 - file 'MNIST _ 基于朴素贝叶斯分类器的0-9数字手写体识别.md' is a detailed introduction document for this project. 
 - file '用Bayes分类器做0-9数字手写体识别-实验记录单.docx' is a record document of experinments carried out in this project.
 
-For more detailed information, refer to article [MNIST _ 基于朴素贝叶斯分类器的0-9数字手写体识别.md]().
+For more detailed information, refer to article [MNIST _ 基于朴素贝叶斯分类器的0-9数字手写体识别.md](https://github.com/chentianyangWHU/MNIST-Classification/blob/master/NaiveBayes/MNIST%20_%20%E5%9F%BA%E4%BA%8E%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8%E7%9A%840-9%E6%95%B0%E5%AD%97%E6%89%8B%E5%86%99%E4%BD%93%E8%AF%86%E5%88%AB.md).
