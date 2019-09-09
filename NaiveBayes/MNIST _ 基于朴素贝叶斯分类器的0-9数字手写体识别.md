@@ -1,7 +1,7 @@
 ﻿
 # <center><font face="宋体"> MNIST|基于朴素贝叶斯分类器的0-9数字手写体识别 </font></center>
 
-*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link]()</center>*
+*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link](https://github.com/chentianyangWHU/MNIST-Classification/tree/master/NaiveBayes)</center>*
 
 **概要：** <font face="宋体" size = 3> 本实验基于[MNIST](http://yann.lecun.com/exdb/mnist/)数据集，采用朴素贝叶斯分类器，实现了0-9数字手写体的识别。本文将简要介绍这一方法的原理、代码实现以及在编程过程中需要注意的若干问题，代码仍然是用MATLAB写成的。</font>
 
