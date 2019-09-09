@@ -67,4 +67,4 @@ Among the files above:
 - file 'LICENSE' is the license file produced by github;
 - file 'MNIST _ 基于k-means和KNN的0-9数字手写体识别.md' is a detailed introduction document for this project. 
 
-For more detailed information, refer to article [MNIST _ 基于k-means和KNN的0-9数字手写体识别.md]().
+For more detailed information, refer to article [MNIST _ 基于k-means和KNN的0-9数字手写体识别.md](https://github.com/chentianyangWHU/MNIST-Classification/blob/master/kmeans-KNN/MNIST%20_%20%E5%9F%BA%E4%BA%8Ek-means%E5%92%8CKNN%E7%9A%840-9%E6%95%B0%E5%AD%97%E6%89%8B%E5%86%99%E4%BD%93%E8%AF%86%E5%88%AB.md).
